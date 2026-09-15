@@ -15,5 +15,6 @@ int main() {
 		for(int j=0; j<n;j++) printf("%d", a[i][j]);
 		printf("\n");
 	}
+	printf("hoàn thành chương trình");
 	return 0;
 }
